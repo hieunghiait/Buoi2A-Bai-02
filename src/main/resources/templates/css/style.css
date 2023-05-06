@@ -1,0 +1,53 @@
+/* Style for header element */
+header {
+    background-color: #333;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 12px;
+}
+
+/* Style for nav element */
+nav {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav li a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav li a:hover {
+    background-color: #ddd;
+}
+
+/* Style for article element */
+article {
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+/* Style for footer element */
+footer {
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 12px;
+}
